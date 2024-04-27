@@ -10,9 +10,7 @@ Currently, two official plugins are available:
 ## Install & Run
 - yarn 
 - yarn dev
-Claro, aquí tienes una versión reformulada de la información que proporcionaste, redactada en un estilo más formal para que suene como un informe:
 
----
 
 ## Adaptación al uso de TypeScript
 
